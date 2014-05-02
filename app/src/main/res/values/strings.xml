@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Dailogs</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+        <string-array name="planets_array">
+            <item>Mercury</item>
+            <item>Venus</item>
+            <item>Earth</item>
+            <item>Mars</item>
+            <item>Jupiter</item>
+            <item>Saturn</item>
+            <item>Uranus</item>
+            <item>Neptune</item>
+        </string-array>
+
+        <string-array name="style_array">
+            <item>STYLE_NO_TITLE</item>
+            <item>STYLE_NO_FRAME</item>
+            <item>STYLE_NO_INPUT</item>
+            <item>STYLE_NORMAL</item>
+        </string-array>
+
+        <string-array name="theme_array">
+            <item>Theme_Holo</item>
+            <item>Theme_Holo_Light_Dialog</item>
+            <item>Theme_Holo_Light</item>
+            <item>Theme_Holo_Light_Panel</item>
+        </string-array>
+
+</resources>
